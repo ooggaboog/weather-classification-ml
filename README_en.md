@@ -1,5 +1,6 @@
+[русская вер.](README.md)
 # Building a machine learning model to classify the type of weather conditions
-Final project for ITMO University course 'Methods of data analysis'
+Final project for ITMO University course ['Methods of data analysis'](https://github.com/ooggaboog/itmo-bonustrack-ml)
 
 ### Description:  
 I used a synthetically generated dataset that included various weather-related characteristics and classified weather into several types.
